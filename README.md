@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-mis&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-mis" /> </p>
 
-- 🔭 I’m currently working With a Company called **Atomos Technologies**
+- 🔭 I’m currently working as an Intern with **Atomos Technologies**
 
 - 🌱 I’m currently learning **Frameworks and DSA**
 
