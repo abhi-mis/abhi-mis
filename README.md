@@ -3,15 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-mis&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-mis" /> </p>
 
-- 🔭 I’m currently working as an Intern with **Atomos Technologies**
-
-- 🌱 I’m currently learning **Frameworks and DSA**
-
-- 👨‍💻 All of my projects are available at [https://abhishek-mishra.netlify.app/](https://abhishek-mishra.netlify.app/)
-
-- 💬 Ask me about **Web Development, Application Development and Competitive Coding**
-
-- 📫 How to reach me **b.s.abhi152@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oVLoKcEY3BA92jGFDUTipuIf-Rfa3blU/view?usp=share_link](https://drive.google.com/file/d/1oVLoKcEY3BA92jGFDUTipuIf-Rfa3blU/view?usp=share_link)
 
