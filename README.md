@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  📄 Know about my experiences: <a href="https://drive.google.com/file/d/1oVLoKcEY3BA92jGFDUTipuIf-Rfa3blU/view?usp=share_link" target="_blank">Resume</a>
+  📄 Know about my experiences: <a href="https://drive.google.com/file/d/1XrRoS5oJFO73blkZP2c3cM1P9nhuz613/view?usp=sharing" target="_blank">Resume</a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -26,15 +26,13 @@
   <a href="https://www.hackerrank.com/ricky_coder" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/ricky_coder" target="_blank">
+  <a href="https://codeforces.com/profile/Abhi3015" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/abhi_mis/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://www.topcoder.com/members/abhi_mis" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder" height="30" width="40" />
-  </a>
+ 
 </p>
 
 <p align="center">
