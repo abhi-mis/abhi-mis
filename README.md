@@ -1,8 +1,3 @@
-# 💻 Abhishek Mishra  
-
-**👨‍💻 Software Developer | Frontend & Backend Enthusiast**  
-
-## 🚀 About Me  
 Hello! I'm Abhishek Mishra, a passionate software developer with expertise in **React, Node.js, Java, Python, C++, and SQL**. I love building scalable applications and solving complex problems.  
 
 ## 🔧 Tech Stack  
