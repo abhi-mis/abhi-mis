@@ -12,25 +12,10 @@ Hello! I'm Abhishek Mishra, a passionate software developer with expertise in **
 - **Database**: MongoDB, Firebase, PostgreSQL  
 - **Tools**: Git, Docker, TravisCI, Google Cloud Platform, VS Code, PyCharm, IntelliJ, Eclipse  
 
-## 📌 Projects  
-### 🚀 [PIX Mender](https://github.com/abhi-mis/PixMender)  
-A web app that helps users store and manage ID photos, signatures, and documents for easy uploads.  
-
-### 📝 Note-Taking App  
-A **ReactJS + Node.js + MongoDB** project for organizing notes with an intuitive UI.  
-
-### ⛅ Weather App  
-A **React-based** application to check real-time weather updates.  
-
-## 🏆 Achievements  
-- **3rd Place** in a hackathon for **PIX Mender** 🚀  
-- Organized **Career Catalyst Seminar** as part of **Coders’ Club by TSC**  
-- Mentored students in **The Coder's Club**  
-
 ## 📫 Contact Me  
-- **LinkedIn**: [linkedin.com/in/abhishek-mishra](#)  
+- **LinkedIn**: [linkedin.com/in/abhiconnect](#)  
 - **GitHub**: [github.com/abhi-mis](https://github.com/abhi-mis)  
-- **Email**: abhishekmishra@example.com  
+- **Email**: abhi.connect15@gmail.com  
 
 ---
 
